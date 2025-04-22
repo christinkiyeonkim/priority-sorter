@@ -23,7 +23,7 @@ This script automatically calculates how many days are left and sorts your to-do
 2. Run the script in your terminal:
 
 ```bash
-python priority_sorter.py
+
 
 
 ## 🧪 Sample Output
