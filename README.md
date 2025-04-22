@@ -1,3 +1,12 @@
+## Background & Motivation 🧠
+
+I'm currently learning about lists and sorting in Python—things like sorting alphabetically, by numbers, and naturally I got curious about sorting by dates too. That’s how this little project started. 
+
+Honestly, it’s super simple and just something I made to try applying what I've been learning. Instead of trying to build something fancy or useful for others, I wanted to see what I could actually make and use myself, with the basics I know so far.
+
+---
+
+
 # 📋 Priority Sorter CLI
 
 A simple Python command-line tool that helps you organize tasks based on due dates.  
