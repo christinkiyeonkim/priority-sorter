@@ -41,4 +41,5 @@ This script automatically calculates how many days are left and sorts your to-do
 3. Pay subscription            | Thu Apr 18 | ❗ OVERDUE
 
 
+![Screenshot](priority_sorter.jpg) 
 
