@@ -22,9 +22,6 @@ This script automatically calculates how many days are left and sorts your to-do
 1. Make sure you have Python 3 installed
 2. Run the script in your terminal:
 
-```bash
-
-
 
 ## 🧪 Sample Output
 
@@ -33,4 +30,6 @@ This script automatically calculates how many days are left and sorts your to-do
 1. Submit application          | Mon Apr 22 | 🔥 DUE TODAY
 2. Renew passport              | Wed Apr 24 | ⏳ In 2 day(s)
 3. Pay subscription            | Thu Apr 18 | ❗ OVERDUE
+
+
 
